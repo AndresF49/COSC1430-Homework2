@@ -1,0 +1,3 @@
+Program recieves a score on each line from stdin and adds to an array to calculate # of students, average grade, print each score, calculate standard deviation, and print a histogram.
+You can enter in a valid integer score line by line and when you are finished entering in your scores, you can enter in -1 to signify that you are done.
+Up to 99 scores can be entered. Program will ignore scores greater than 100 and less than 0 (other than the -1 exit command).
